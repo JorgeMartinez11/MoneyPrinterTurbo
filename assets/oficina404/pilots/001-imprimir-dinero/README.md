@@ -2,26 +2,25 @@
 
 Primer vídeo piloto de La Oficina 404.
 
-## Tema
+## Idea
+Explicar de forma visual y simple por qué imprimir más dinero no crea más riqueza si la cantidad de bienes y servicios sigue siendo la misma.
 
-Por qué imprimir más dinero no crea más riqueza por sí mismo cuando la cantidad de bienes y servicios no aumenta al mismo ritmo.
+## Escenas
 
-## Estructura
-
-- `scenes/`: imágenes aprobadas de cada escena.
-- `audio/`: voz en off y efectos de sonido.
-- `subtitles/`: subtítulos del vídeo.
-- `final/`: renders finales.
+1. `01-hook.jpg` — El Jefe anuncia nuevos sueldos.
+2. `02-print-money.png` — El Jefe imprime billetes como solución.
+3. `03-celebration.png` — Euforia inicial en la oficina.
+4. `04-same-office.png` — La oficina sigue teniendo los mismos recursos.
+5. `05-coffee-chaos.png` — Todos quieren comprar el mismo café.
+6. `06-price-rise.png` — El precio del café empieza a subir.
+7. `07-more-money.png` — Más billetes, mismo problema.
+8. `08-ending.png` — El Becario necesita un montón de billetes para pagar un café.
 
 ## Estado
 
-- [x] Escena 01 — Hook: subida de sueldos anunciada por El Jefe.
-- [ ] Escena 02 — El Jefe imprime dinero.
-- [ ] Escena 03 — Euforia inicial.
-- [ ] Escena 04 — La cantidad de cosas no cambia.
-- [ ] Escena 05 — Competencia por el mismo café.
-- [ ] Escena 06 — El precio sube.
-- [ ] Escena 07 — Más billetes, mismo problema.
-- [ ] Escena 08 — Remate final.
-
-La referencia visual principal del piloto es el plantel canónico de `assets/oficina404/characters/`, complementado por `scenes/01-hook.jpg` para mantener composición, proporciones y estilo en las escenas siguientes.
+- Guion: definido.
+- Escenas 1–8: generadas y aprobadas como base del piloto.
+- Voz en off: pendiente.
+- Subtítulos: pendiente.
+- Montaje: pendiente.
+- Publicación: pendiente.
